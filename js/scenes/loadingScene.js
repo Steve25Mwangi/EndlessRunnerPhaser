@@ -10,8 +10,7 @@ loadingScene.preload = function () {
     this.load.image('bgMid', 'assets/images/backgroundColorForestMid.png');
     this.load.image('block', 'assets/images/Block.png');
     this.load.image('obstacle1', 'assets/images/rock1.png');
-    this.load.image('obstacle2', 'assets/images/tallRock.png');
-    //this.load.image('obstacle2', 'assets/images/rock2.png');
+    this.load.image('obstacle2', 'assets/images/tallRock.png');    
 
     // load sprite sheets
     this.load.spritesheet('player', 'assets/images/spritesheetPlayer.png', {

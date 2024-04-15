@@ -295,7 +295,7 @@ gameScene.spawnObstacles = function () {
             obstacle.body.enable = true;
 
             //check pooling numbers
-            console.log(this.obstacles.getChildren().length);
+            //console.log(this.obstacles.getChildren().length);
 
             //set properties
             // obstacle.setVelocityX(this.speed);
